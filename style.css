@@ -16,14 +16,16 @@ width: 70%;
 background-color: #141111;
 height: 600px; 
 }
+section{
+background-color: aqua;
+}
 
 aside{
 float: left;
 padding: 1px;
-height: 800px;
+height: 1040px;
 width: 360px;
 background-color: blueviolet;
-
 }
 
 main{
@@ -31,5 +33,6 @@ float: left;
 padding: 20px;
 width: 70%;
 background-color: #f1f1f1;
-height: 700px; 
+height: 1000px; 
+background-image: url(./img/planet-earth-surrounded-by-nature-vegetation.jpg);
 }
