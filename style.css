@@ -34,6 +34,7 @@ footer{
     background-image: url(./images.jfif);
     text-align: center;
     color: green;
+    background-color: rgb(35, 250, 35);
     text-shadow:rgb(0, 255, 21) 1px 0 10px;
 }   
 a{
