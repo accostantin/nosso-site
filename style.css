@@ -3,3 +3,39 @@ margin: 0;
 padding: 0;
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+header{
+    width: 100%; 
+    height: 400px;
+    display: block;
+    float: left;
+    font-size:75px;
+    text-align: center;
+    color: green;
+    background-size: cover;
+    background-position-y: -90px ;
+    background-repeat: no-repeat;
+    background-image: url(https://i.pinimg.com/originals/f4/b7/93/f4b7939e9d91402ad060286c64642625.gif);
+
+}
+h1{
+    padding: 20px;
+}
+h2{
+    font-size: 60px;
+    color: white;
+    letter-spacing: 20px;
+    padding: 6px;
+}
+footer{
+    width: 100%;
+    height: 100px;
+    display: block;
+    float: left;
+    background-image: url(./images.jfif);
+    text-align: center;
+    color: green;
+    text-shadow:rgb(0, 255, 21) 1px 0 10px;
+}   
+a{
+    font-size: 30px;
+}
