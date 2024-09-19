@@ -58,7 +58,7 @@ float: left;
 padding: 10px;
 width: 70%;
 background-color: #f1f1f1;
-height: 1000px; 
+height: 1030px; 
 background-image: url(./img/planet-earth-surrounded-by-nature-vegetation.jpg);
 }
 
@@ -152,4 +152,18 @@ color: #000000;
 background-color: #26a03b;
 margin-left: 70px;
 font-size: 30px;
+}
+
+.links{
+width: 80px;
+background-color: white;
+font-size: 10px;
+list-style-position: inside;
+margin-left: 4px;
+padding: 0;
+
+}
+
+li a{
+font-size: 20px;
 }
