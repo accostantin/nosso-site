@@ -17,7 +17,7 @@ header{
     background-image: url(https://i.pinimg.com/originals/f4/b7/93/f4b7939e9d91402ad060286c64642625.gif);
 
 }
-h1{
+header h1{
     padding: 20px;
 }
 h2{
@@ -38,4 +38,168 @@ footer{
 }   
 a{
     font-size: 30px;
+}
+
+h1{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: green;
+font-size: 50px;
+text-shadow: rgb(0, 255, 21) 1px 0 10px;
+border: thick double #26a03b;   
+}
+
+article{
+float: left;
+padding: 20px;
+width: 90%;
+background-color: #141111;
+opacity: 20px;
+height: 900px; 
+}
+.sec1{
+background-color: rgb(255, 255, 255);
+width: 100%;
+height:70px;
+
+}
+
+.sec2{
+background-color: rgb(255, 255, 255);
+width: 410px;
+height: 800px;
+margin-top: 20px;
+border: thick double #26a03b;   
+}
+
+.sec3{
+background-color: rgb(255, 255, 255);
+border: thick double #26a03b;
+width: 410px;
+height: 800px;
+float: right;
+margin-top: -810px
+}
+
+aside{
+float: left;
+padding: 1px;
+height: 1040px;
+width: 360px;
+background-color: rgb(0, 0, 0);
+border: thick double #26a03b;
+}
+
+main{
+float: left;
+padding: 10px;
+width: 70%;
+background-color: #f1f1f1;
+height: 1030px; 
+background-image: url(./img/planet-earth-surrounded-by-nature-vegetation.jpg);
+}
+
+p{
+font-size: 22px;
+text-align: left;
+}
+
+div img{
+margin-top: 20px;
+width: 300px;
+height: 300px;
+border: thick double #26a03b;
+margin-left: 40px;
+}
+
+h5{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: green;
+font-size: 30px;
+text-shadow: rgb(0, 255, 21) 1px 0 10px;
+margin-top: 40px;
+}
+
+h4{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: green;
+font-size: 30px;
+text-shadow: rgb(0, 255, 21) 1px 0 10px;
+margin-top: 40px;
+}
+
+h3{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: green;
+font-size: 30px;
+text-shadow: rgb(0, 255, 21) 1px 0 10px;
+}
+
+h6{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: green;
+font-size: 30px;
+text-shadow: rgb(0, 255, 21) 1px 0 10px;
+margin-top: 40px;
+}
+
+#divBusca{
+background-color:#ffffff;
+border:green solid 1px;
+border-radius:10px;
+width:350px;
+height: 40px;
+margin-top: 10px;
+}
+
+#txtBusca{
+float:left;
+background-color:transparent;
+padding-left:5px;
+font-style:italic;
+font-size:18px;
+border:none;
+height:32px;
+width:260px;
+}
+
+div p{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: rgb(0, 0, 0);
+font-size: 20px;
+margin-top: 40px;
+background-color: #26a03b;
+border: thick double #000000;
+width: 340px;
+margin-left: 5px;
+}
+
+div ul li{
+width: 340px;
+height: 50px;
+background-color: #ffffff;
+margin-left: 10px;
+padding: 0;
+list-style-position: inside;
+}
+
+div a{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: #000000;
+background-color: #26a03b;
+margin-left: 70px;
+font-size: 30px;
+}
+
+.links{
+width: 80px;
+background-color: white;
+font-size: 10px;
+list-style-position: inside;
+margin-left: 4px;
+padding: 0;
+
+}
+
+li a{
+font-size: 20px;
 }
